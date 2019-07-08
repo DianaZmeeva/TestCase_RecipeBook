@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecipeBook</string>
+    <string name="jsonWaitString">Wait</string>
+    <string name="jsonMessageString">Get information</string>
+    <string name="failString">Fail</string>
+    <string name="internetProblemString">Problem with Internet Connection</string>
+    <string name="dishNameString">Dish name</string>
+    <string name="descriptionString">Description:</string>
+    <string name="difficultyString">Difficulty:</string>
+    <string name="instructionsString">Instructions:</string>
+    <string name="SortByNameString">Sort by name</string>
+    <string name="SortByDateString">Sort by date</string>
+    <string name="SearchString">Search</string>
+</resources>
